@@ -1,0 +1,1 @@
+The result is: hello, this is the first text file.
